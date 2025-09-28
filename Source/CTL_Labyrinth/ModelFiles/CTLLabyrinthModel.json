@@ -1,0 +1,1385 @@
+{
+  "states": [
+    {
+      "id": 1,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 2,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 3,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": true,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 4,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": true,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 5,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": false,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 6,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": false,
+        "NPC1Escaped": true,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 7,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": false,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 8,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": false,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 9,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": false,
+        "NPC2Alive": false,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 10,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 11,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": true,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 12,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": false,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 13,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 14,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 15,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": false,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 16,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 17,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 18,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 19,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 20,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": true,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 21,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 22,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": false,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 23,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": false,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 24,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": true,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 25,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": false,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 26,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 27,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 28,
+      "properties": {
+        "NPC1InDanger": false,
+        "NPC2InDanger": true,
+        "NPC1NearExit": true,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 29,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 30,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 31,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 32,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": true
+      }
+    },
+    {
+      "id": 33,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": true,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 34,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": true,
+        "NPC1NearExit": false,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 35,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": true,
+        "NPC1NearExit": true,
+        "NPC2NearExit": true,
+        "NPC1Alive": true,
+        "NPC2Alive": true,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    },
+    {
+      "id": 36,
+      "properties": {
+        "NPC1InDanger": true,
+        "NPC2InDanger": false,
+        "NPC1NearExit": true,
+        "NPC2NearExit": false,
+        "NPC1Alive": true,
+        "NPC2Alive": false,
+        "NPC1Escaped": false,
+        "NPC2Escaped": false
+      }
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 13,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 1,
+      "to": 10,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 1,
+      "to": 17,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 1,
+      "to": 18,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 2,
+      "to": 14,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 2,
+      "to": 21,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 3,
+      "to": 20,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 3,
+      "to": 11,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 5,
+      "to": 15,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 5,
+      "to": 22,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 7,
+      "to": 12,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 7,
+      "to": 23,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 10,
+      "to": 16,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 10,
+      "to": 5,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 10,
+      "to": 26,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 10,
+      "to": 27,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 10,
+      "to": 1,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 11,
+      "to": 6,
+      "action": "NPC2Eliminated"
+    },{
+      "from": 11,
+      "to": 24,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 11,
+      "to": 3,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 12,
+      "to": 7,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 12,
+      "to": 9,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 12,
+      "to": 25,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 13,
+      "to": 16,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 13,
+      "to": 1,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 13,
+      "to": 7,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 13,
+      "to": 29,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 13,
+      "to": 30,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 14,
+      "to": 2,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 14,
+      "to": 8,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 14,
+      "to": 32,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 15,
+      "to": 5,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 15,
+      "to": 36,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 15,
+      "to": 9,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 16,
+      "to": 10,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 16,
+      "to": 13,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 16,
+      "to": 15,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 16,
+      "to": 12,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 16,
+      "to": 33,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 16,
+      "to": 34,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 17,
+      "to": 3,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 17,
+      "to": 30,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 17,
+      "to": 1,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 17,
+      "to": 26,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 17,
+      "to": 19,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 18,
+      "to": 2,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 18,
+      "to": 27,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 18,
+      "to": 1,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 18,
+      "to": 29,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 19,
+      "to": 21,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 19,
+      "to": 28,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 19,
+      "to": 31,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 19,
+      "to": 18,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 19,
+      "to": 17,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 20,
+      "to": 4,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 20,
+      "to": 3,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 20,
+      "to": 24,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 21,
+      "to": 4,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 21,
+      "to": 2,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 21,
+      "to": 32,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 22,
+      "to": 5,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 22,
+      "to": 36,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 22,
+      "to": 6,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 23,
+      "to": 8,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 23,
+      "to": 25,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 23,
+      "to": 7,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 24,
+      "to": 6,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 24,
+      "to": 4,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 24,
+      "to": 20,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 24,
+      "to": 11,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 25,
+      "to": 8,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 25,
+      "to": 9,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 25,
+      "to": 23,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 25,
+      "to": 12,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 26,
+      "to": 33,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 26,
+      "to": 11,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 26,
+      "to": 10,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 26,
+      "to": 17,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 26,
+      "to": 22,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 26,
+      "to": 10,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 27,
+      "to": 2,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 27,
+      "to": 18,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 27,
+      "to": 10,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 27,
+      "to": 5,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 27,
+      "to": 34,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 28,
+      "to": 35,
+      "action": "NPC1GetsInDanger"
+    },
+    {
+      "from": 28,
+      "to": 19,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 28,
+      "to": 27,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 28,
+      "to": 26,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 28,
+      "to": 24,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 28,
+      "to": 21,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 28,
+      "to": 22,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 29,
+      "to": 23,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 29,
+      "to": 14,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 29,
+      "to": 18,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 29,
+      "to": 13,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 29,
+      "to": 31,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 29,
+      "to": 34,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 30,
+      "to": 7,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 30,
+      "to": 3,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 30,
+      "to": 13,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 30,
+      "to": 17,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 30,
+      "to": 33,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 31,
+      "to": 20,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 31,
+      "to": 23,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 31,
+      "to": 19,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 31,
+      "to": 29,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 31,
+      "to": 35,
+      "action": "NPC2GetsInDanger"
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 31,
+      "to": 30,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 32,
+      "to": 8,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 32,
+      "to": 21,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 32,
+      "to": 14,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 32,
+      "to": 4,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 33,
+      "to": 11,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 33,
+      "to": 12,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 33,
+      "to": 26,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 33,
+      "to": 16,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 33,
+      "to": 30,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 33,
+      "to": 35,
+      "action": "NPC2GetsNearExit"
+    },
+    {
+      "from": 33,
+      "to": 36,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 34,
+      "to": 25,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 34,
+      "to": 5,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "action": "NPC1GetsNearExit"
+    },
+    {
+      "from": 34,
+      "to": 27,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 34,
+      "to": 29,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 34,
+      "to": 16,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 34,
+      "to": 14,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 35,
+      "to": 24,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 35,
+      "to": 25,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 35,
+      "to": 28,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 35,
+      "to": 34,
+      "action": "NPC1GetsFurtherFromExit"
+    },
+    {
+      "from": 35,
+      "to": 32,
+      "action": "NPC2Escapes"
+    },
+    {
+      "from": 35,
+      "to": 31,
+      "action": "NPC2GetsOutOfDanger"
+    },
+    {
+      "from": 35,
+      "to": 33,
+      "action": "NPC2GetsFurtherFromExit"
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "action": "NPC2Eliminated"
+    },
+    {
+      "from": 36,
+      "to": 9,
+      "action": "NPC1Eliminated"
+    },
+    {
+      "from": 36,
+      "to": 6,
+      "action": "NPC1Escapes"
+    },
+    {
+      "from": 36,
+      "to": 22,
+      "action": "NPC1GetsOutOfDanger"
+    },
+    {
+      "from": 36,
+      "to": 15,
+      "action": "NPC1GetsFurtherFromExit"
+    }
+  ],
+  "formulas": [
+    {
+      "type": "Atomic",
+      "predicate": "NPC1InDanger",
+      "id": 1
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC1NearExit",
+      "id": 2
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC1Alive",
+      "id": 3
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC1Escaped",
+      "id": 4
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC2InDanger",
+      "id": 5
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC2NearExit",
+      "id": 6
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC2Alive",
+      "id": 7
+    },
+    {
+      "type": "Atomic",
+      "predicate": "NPC2Escaped",
+      "id": 8
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 3,
+      "id": 9
+    },
+    {
+      "type": "Unary",
+      "operator": "EF",
+      "subformula_id": 4,
+      "id": 10
+    },
+    {
+      "type": "Binary",
+      "operator": "OR",
+      "left_id": 9,
+      "right_id": 10,
+      "id": 11
+    },
+    {
+      "type": "Unary",
+      "operator": "AG",
+      "subformula_id": 11,
+      "id": 12
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 7,
+      "id": 13
+    },
+    {
+      "type": "Unary",
+      "operator": "EF",
+      "subformula_id": 8,
+      "id": 14
+    },
+    {
+      "type": "Binary",
+      "operator": "OR",
+      "left_id": 13,
+      "right_id": 14,
+      "id": 15
+    },
+    {
+      "type": "Unary",
+      "operator": "AG",
+      "subformula_id": 15,
+      "id": 16
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 1,
+      "id": 18
+    },
+    {
+      "type": "Unary",
+      "operator": "EF",
+      "subformula_id": 18,
+      "id": 19
+    },
+    {
+      "type": "Binary",
+      "operator": "OR",
+      "left_id": 18,
+      "right_id": 19,
+      "id": 20
+    },
+    {
+      "type": "Unary",
+      "operator": "AG",
+      "subformula_id": 20,
+      "id": 21
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 5,
+      "id": 23
+    },
+    {
+      "type": "Unary",
+      "operator": "EF",
+      "subformula_id": 23,
+      "id": 24
+    },
+    {
+      "type": "Binary",
+      "operator": "OR",
+      "left_id": 23,
+      "right_id": 24,
+      "id": 25
+    },
+    {
+      "type": "Unary",
+      "operator": "AG",
+      "subformula_id": 25,
+      "id": 26
+    },
+    {
+      "type": "Unary",
+      "operator": "EX",
+      "subformula_id": 4,
+      "id": 27
+    },
+    {
+      "type": "Unary",
+      "operator": "EX",
+      "subformula_id": 8,
+      "id": 28
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 1,
+      "id": 31
+    },
+    {
+      "type": "Unary",
+      "operator": "EX",
+      "subformula_id": 31,
+      "id": 32
+    },
+    {
+      "type": "Unary",
+      "operator": "NOT",
+      "subformula_id": 5,
+      "id": 33
+    },
+    {
+      "type": "Unary",
+      "operator": "EX",
+      "subformula_id": 33,
+      "id": 34
+    },
+    {
+      "type": "Binary",
+      "operator": "AND",
+      "left_id": 2,
+      "right_id": 32,
+      "id": 35
+    },
+    {
+      "type": "Binary",
+      "operator": "AND",
+      "left_id": 6,
+      "right_id": 34,
+      "id": 36
+    }
+  ]
+}

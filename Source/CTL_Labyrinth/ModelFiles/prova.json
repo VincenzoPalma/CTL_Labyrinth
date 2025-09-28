@@ -1,0 +1,118 @@
+{
+    "states": [
+      {
+        "id": 1,
+        "properties": {
+          "NPC1InDanger": false,
+          "NPC2InDanger": false,
+          "NPC1NearExit": false,
+          "NPC2NearExit": false,
+          "NPC1Alive": true,
+          "NPC2Alive": true,
+          "NPC1Escaped": false,
+          "NPC2Escaped": false,
+          "NPC1HealthPoints": 10,
+          "NPC1Status": "Alive",
+          "NPC1Speed": 5.5
+        }
+      },
+      {
+        "id": 2,
+        "properties": {
+          "NPC1InDanger": false,
+          "NPC2InDanger": false,
+          "NPC1NearExit": false,
+          "NPC2NearExit": false,
+          "NPC1Alive": true,
+          "NPC2Alive": true,
+          "NPC1Escaped": false,
+          "NPC2Escaped": true,
+          "NPC1HealthPoints": 7,
+          "NPC1Status": "Escaped",
+          "NPC1Speed": 0.4
+        }
+      }
+    ],
+    "transitions": [
+      {
+        "from": 1,
+        "to": 2,
+        "actions": ["NPC1GetsInDanger","NPC2GetsInDanger"]
+      }
+    ],
+    "formulas": [
+      {
+        "type": "AtomicInt",
+        "comparison_type": "=",
+        "comparison_value": 5,
+        "predicate": "NPC1HealthPointsEqualsFive",
+        "id": 37
+      },
+      {
+        "type": "AtomicString",
+        "comparison_value": "Eliminated",
+        "predicate": "IsNPC1Eliminated",
+        "id": 38
+      },
+      {
+        "type": "AtomicDouble",
+        "comparison_type": ">=",
+        "comparison_value": 3.4,
+        "predicate": "IsNPC1FasterThan",
+        "id": 39
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC1InDanger",
+        "id": 1
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC1NearExit",
+        "id": 2
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC1Alive",
+        "id": 3
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC1Escaped",
+        "id": 4
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC2InDanger",
+        "id": 5
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC2NearExit",
+        "id": 6
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC2Alive",
+        "id": 7
+      },
+      {
+        "type": "AtomicBool",
+        "predicate": "NPC2Escaped",
+        "id": 8
+      },
+      {
+        "type": "Unary",
+        "operator": "NOT",
+        "subformula_id": 3,
+        "id": 9
+      },
+      {
+        "type": "Unary",
+        "operator": "EF",
+        "subformula_id": 4,
+        "id": 10
+      }
+    ]
+  }
+  
