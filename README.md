@@ -1,6 +1,6 @@
-# CTL-Labyrinth
+# Labyrinth Hunt
 
-CTL-Labyrinth is an asymmetric hunter vs. runner game developed in Unreal Engine 5. The game leverages the FindMe system to implement intelligent AI behaviors for NPCs.
+Labyrinth Hunt is an asymmetric hunter vs. runner game developed in Unreal Engine 5. The game leverages the FindMe system to implement intelligent AI behaviors for NPCs.
 ## Main Features
 - Dynamic Labyrinth Maps: Maze layouts with exits randomly selected in each game.
 - Asymmetric Gameplay: Two AI-controlled runner NPCs vs. one human-controlled hunter.
